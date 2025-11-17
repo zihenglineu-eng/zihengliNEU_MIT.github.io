@@ -1,8 +1,8 @@
 ---
+layout: single
 title: "Projects"
 permalink: /projects/
 ---
 
-# Projects
-
+# Projects  
 Coming soon.
